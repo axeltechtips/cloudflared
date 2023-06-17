@@ -6,7 +6,7 @@ In addition to making your WiFi faster, Cloudflared also provides a number of ot
 Increased security: Cloudflare's DNS servers are protected by a number of security features, which can help to protect your computer from malware and other attacks.
 Improved privacy: Cloudflare does not track your DNS requests, which means that your browsing history is not stored by Cloudflare.
 Easy to use: Cloudflared is a simple to use tool that can be installed on any computer.
-If you are looking for a way to make your WiFi faster and more secure, then Cloudflared is a great option. To learn more about Cloudflared, please visit the project's website: https://github.com/cloudflare/cloudflared
+If you are looking for a way to make your WiFi faster and more secure, then Cloudflared is a great option.
 
 Here are some additional benefits of using Cloudflared:
 
